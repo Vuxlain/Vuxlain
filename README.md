@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mikdat Kerem 'Vuxlain' Kalkan
 - 👀 I’m interested in computers, coding(java, C#,) and F1.
-- 🌱 I’m currently learning java...
+- 🌱 I’m currently learning java.
 - 📫 How to reach me mikdatkeremkalkan@outlook.com.
 
 <!---
